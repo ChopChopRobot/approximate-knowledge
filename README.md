@@ -5,6 +5,7 @@ _This is a collection of everything that I know. I have approximate knowledge of
 
 ### Recommended Switches
 * Lenovo Rackswitch G7028 & G8052
+  * [a relative link](resources/networking/lenovo-G7028-G8052.pdf)
 * Netgear Prosafe XS712T
 * Cisco SG350XG-2F10
 * Dell X4012
