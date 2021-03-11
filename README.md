@@ -4,9 +4,8 @@ _This is a collection of everything that I know. I have approximate knowledge of
 ## Networking
 
 ### Recommended Switches
-* Lenovo Rackswitch G7028 & G8052
-  * [a relative link](resources/networking/lenovo-G7028-G8052.pdf)
-* Netgear Prosafe XS712T
-* Cisco SG350XG-2F10
-* Dell X4012
-* HP Aruba Procurve 2930F
+* [Lenovo G7028 & G8052](resources/networking/lenovo-G7028-G8052.pdf)
+* [Netgear Prosafe XS712T](resources/networking/netgear-XS712T.pdf)
+* [Cisco SG350XG-2F10](resources/networking/cisco-SG350XG.pdf)
+* [Dell X4012](resources/networking/dell-X4012.pdf)
+* [HP Aruba Procurve 2930F](resources/networking/hp-2930F.pdf)
