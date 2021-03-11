@@ -4,7 +4,7 @@ _This is a collection of everything that I know. I have approximate knowledge of
 ## Networking
 
 ### General
-* [Getting Started](resources/networking/netwokring-guide.pdf)
+* [Getting Started](resources/networking/networking-guide.pdf)
 
 ### Recommended Switches
 * [Lenovo G7028 & G8052](resources/networking/lenovo-G7028-G8052.pdf)
