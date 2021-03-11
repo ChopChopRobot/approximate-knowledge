@@ -3,6 +3,9 @@ _This is a collection of everything that I know. I have approximate knowledge of
 
 ## Networking
 
+### General
+* [Getting Started](resources/networking/netwokring-guide.pdf)
+
 ### Recommended Switches
 * [Lenovo G7028 & G8052](resources/networking/lenovo-G7028-G8052.pdf)
 * [Netgear Prosafe XS712T](resources/networking/netgear-XS712T.pdf)
