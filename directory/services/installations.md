@@ -4,8 +4,8 @@
 * [Self Installation](../../resources/services/self-installation.pdf)
 
 ### Quick Reference
-```
-Credentials
+
+##### Credentials
 
   username : admin
   password : admin
@@ -30,4 +30,3 @@ Network Inaccessible
 Combined Remedial Commands
 
   BYPASS_NETWORK_CHECK=yes REINITIALIZE=yes sudo scnodeinit
-```
