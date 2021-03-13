@@ -2,6 +2,7 @@
 
 * [Remote Installation](../../resources/services/system-installation.pdf)
 * [Self Installation](../../resources/services/self-installation.pdf)
+* [Networking Guidlines](../../resources/networking/networking-guide.pdf)
 * [Hardware Support Matrix](../../resources/scale/hardware-matrix.pdf)
 * [Software Support Matrix](../../resources/scale/software-matrix.pdf)
 
