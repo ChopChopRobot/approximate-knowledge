@@ -6,6 +6,7 @@ _This is a collection of everything that I know. I have approximate knowledge of
 ## Directory
 * [Scale](directory/scale/scale.md)
 * [Support](directory/support/support.md)
+* [Services](directory/services/services.md)
 * [Hardware](directory/hardware/hardware.md)
 * [Firmware](directory/firmware/firmware.md)
 * [Networking](directory/networking/networking.md)
