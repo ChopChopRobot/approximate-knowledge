@@ -1,7 +1,7 @@
 # Networking
 
 ## General
-* [Getting Started](resources/networking/networking-guide.pdf)
+* [Getting Started](../resources/networking/networking-guide.pdf)
 
 ### Recommended Switches
 * 1GbE
