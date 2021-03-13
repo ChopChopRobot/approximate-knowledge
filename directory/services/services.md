@@ -1,7 +1,7 @@
 # Professional Services
 
 ## Group One
-* [Installations](../../resources/services/system-installation.pdf)
+* [Installations](installations.md)
 ## Group Two
 * [Windows Quickstart Migrate]()
 * [Leostream WFH Quickstart]()
