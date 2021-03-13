@@ -15,4 +15,4 @@
 * 10GbE SFP+
   * [Netgear Prosafe XS712T](../../resources/networking/netgear-XS712T.pdf)
   * [Dell X4012](../../resources/networking/dell-X4012.pdf)
-  * [Mellanox SX1012, SN2010](../../resources/networking/mellanox-SX1012-SN2010.pdf
+  * [Mellanox SX1012, SN2010](../../resources/networking/mellanox-SX1012-SN2010.pdf)
