@@ -1,2 +1,2 @@
 ## Directory
-* [Network+](directory/certifications/networkplus/networkplus.md)
+* [Network+](networkplus.md)
