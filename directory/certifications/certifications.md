@@ -1,2 +1,2 @@
 ## Directory
-* [Network+](networkplus.md)
+* [CompTIA Network+](networkplus.md)
