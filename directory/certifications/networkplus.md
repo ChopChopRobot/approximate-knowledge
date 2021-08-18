@@ -1,8 +1,7 @@
 ## CompTIA Network+ 
 
-[CompTIA Network+](https://www.comptia.org/certifications/network)
-
-[Training Material](networkplusmaterial.md)
+* [CompTIA Network+](https://www.comptia.org/certifications/network)
+* [Training Material](networkplusmaterial.md)
 
 ### Overview
 * Design and implement functional networks
