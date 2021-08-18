@@ -92,3 +92,5 @@
     * IR - Infrared
     * Z-Wave - Short range, low latency data transfer (Home automation)
     * ANT+ - sensor data collection
+
+### OSI Model
